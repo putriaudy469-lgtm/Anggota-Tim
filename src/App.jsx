@@ -11,3 +11,5 @@ export default function App() {
     </main>
   );
 }
+// feat: menyiapkan komponen utama aplikasi
+// Fitur filter kategori sedang dikembangkan
