@@ -12,7 +12,7 @@ Tambahkan screenshot asli aplikasi yang sudah dijalankan di browser pada bagian 
 
 Jika gambar disimpan dengan nama `aplikasi.png` di folder `screenshots`, gunakan kode berikut:
 
-![Screenshot Aplikasi Anggota Tim](screenshots/aplikasi.png)
+![Screenshot Aplikasi Anggota Tim](anggota-tim.png)
 
 ## 2. Daftar Komponen dan Props
 
